@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 color de las plantas del paraiso, color de esperanza
+=======
+color de las plantas del paraiso // ciudadelas verdes en el futuro
+>>>>>>> bedc256b27609b9a54418f623dba414c45b89d84
